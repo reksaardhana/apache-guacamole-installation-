@@ -27,5 +27,5 @@
     ```bash
     sudo systemctl restart tomcat9
 
-   *Catatan:* Pastikan untuk mengikuti langkah-langkah lebih lanjut di 
-    [Konfigurasi](CONFIGURATION.md).
+*Catatan:* Pastikan untuk mengikuti langkah-langkah lebih lanjut di 
+[Konfigurasi](CONFIGURATION.md).
