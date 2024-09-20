@@ -1,9 +1,7 @@
 **CONFIGURATION.md**
 File ini menjelaskan langkah-langkah konfigurasi.
 
-```markdown
 # Konfigurasi Apache Guacamole
-```
 
 1. **Pengaturan database**
    - Buat database untuk Guacamole dan pengguna:
