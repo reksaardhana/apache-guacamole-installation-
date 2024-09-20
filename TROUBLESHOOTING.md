@@ -1,7 +1,6 @@
 **TROUBLESHOOTING.md**
 File ini berisi solusi untuk masalah umum.
 
-```markdown
 # Pemecahan Masalah
 
 ## Masalah: Tidak dapat mengakses Guacamole
